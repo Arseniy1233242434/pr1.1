@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-04\\Documents\\Kuzminpr-31\\pr1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B40BD147-DF73-4811-958C-3CE7E1F1A5C8}|pr1.vcxproj|C:\\Users\\st310-04\\Documents\\Kuzminpr-31\\pr1\\pr1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B40BD147-DF73-4811-958C-3CE7E1F1A5C8}|pr1.vcxproj|solutionrelative:pr1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 417,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr1.cpp",
+              "DocumentMoniker": "C:\\Users\\st310-04\\Documents\\Kuzminpr-31\\pr1\\pr1.cpp",
+              "RelativeDocumentMoniker": "pr1.cpp",
+              "ToolTip": "C:\\Users\\st310-04\\Documents\\Kuzminpr-31\\pr1\\pr1.cpp",
+              "RelativeToolTip": "pr1.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T05:54:42.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
